@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/enecom-kaisa/htaskgo/htask"
+	"github.com/enecom-kaisa/htaskgo"
 )
 
 // Error on job builder
