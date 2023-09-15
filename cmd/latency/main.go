@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/kawasin73/htask"
+	"github.com/enecom-kaisa/htaskgo"
 )
 
 var (
